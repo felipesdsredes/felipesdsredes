@@ -9,8 +9,8 @@
 
 ### 🔗 Conecte-se comigo:
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipesantos-sre/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/felipesantos-sre/" height="80" width="80" />
+  <a href="https://www.linkedin.com/in/felipesantos-sre/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/felipesantos-sre/" height="70" width="70" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ### 🛠 Linguagens e Ferramentas:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
   <!-- Adicione mais ícones conforme desejar -->
 </p>
 
