@@ -9,8 +9,8 @@
 
 ### 🔗 Conecte-se comigo:
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-santos-arquiteto-devops/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/felipesantos-sre/" height="40" width="40" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipesantos-sre/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/felipesantos-sre/" height="80" width="80" />
   </a>
 </p>
 
