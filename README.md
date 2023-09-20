@@ -32,9 +32,19 @@ Com uma paixão pelo aprendizado e compartilhamento de conhecimento, tenho uma p
 
 ### 🛠 Linguagens e Ferramentas:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/>
-  <!-- Adicione mais ícones conforme desejar -->
+
+- Kubernetes
+- Stack Grafana
+- AWS
+- CI/CD
+- Observabilidade
+- Terraform
+- Ansible
+
 </p>
+
+Para mais informações, entre no meu [LinkedIn](https://www.linkedin.com/in/felipesantos-sre/) e vamos nos conectar e conversar mais sobre tecnologia.
+
 
 ---
 
