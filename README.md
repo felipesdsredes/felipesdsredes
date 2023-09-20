@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋, Meu nome é Felipe Santos</h1>
+<h1 align="center">🚀 Olá 👋, Meu nome é Felipe Santos 🚀</h1>
 
-<h3 align="center">Sou um líder experiente em SRE/DevOps, apaixonado por inovação e melhoria contínua.</h3>
+<h3 align="center">🌟 Sou um líder experiente em SRE/DevOps, apaixonado por inovação e melhoria contínua 🌟</h3>
 
 <p align="justify">
 Minha trajetória profissional me permitiu desenvolver uma perspectiva abrangente, começando na área de infraestrutura, passando por desenvolvimento de software, até a arquitetura de soluções em nuvem. Esta experiência diversificada me permite liderar equipes ágeis com eficiência, disseminando uma cultura DevOps forte e resiliente.
@@ -10,43 +10,45 @@ Como líder de equipes SRE/DevOps, meu objetivo é cultivar um ambiente que esti
 Com uma paixão pelo aprendizado e compartilhamento de conhecimento, tenho uma presença ativa em eventos de tecnologia, como palestrante e coordenador na Cloudup, e como líder e coautor do livro "Jornada Cloud Native". Também fui reconhecido como InfluxAce pela InfluxData.
 </p>
 
-### Links Relevantes:
-- [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/felipe-santos/)
-- [Coordenador e palestrante na Cloudup](https://www.youtube.com/c/CloudUpTV/featured)
-- Jornada Colaborativa: Líder e coautor do livro "Jornada Cloud Native"
+************
+
+### 📌 Links Relevantes:
+- [🌐 InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/felipe-santos/)
+- [🎥 Coordenador e palestrante na Cloudup](https://www.youtube.com/c/CloudUpTV/featured)
+- 📖 Jornada Colaborativa: Líder e coautor do livro "Jornada Cloud Native"
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=felipesdsredes&label=Profile%20views&color=0e75b6&style=flat" alt="felipesdsredes" />
 </p>
 
----
+************
 
 ### 🔗 Conecte-se comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/felipesantos-sre/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/felipesantos-sre/" height="70" width="70" />
   </a>
+  <!-- Adicione outros ícones de redes sociais conforme desejar -->
 </p>
 
----
+************
 
 ### 🛠 Linguagens e Ferramentas:
 <p align="left">
 
-- Kubernetes
-- Stack Grafana
-- AWS
-- CI/CD
-- Observabilidade
-- Terraform
-- Ansible
+- 🔧 Kubernetes
+- 📊 Stack Grafana
+- ☁️ AWS
+- 🔄 CI/CD
+- 📡 Observabilidade
+- 🌍 Terraform
+- ⚙️ Ansible
 
 </p>
 
-Para mais informações, entre no meu [LinkedIn](https://www.linkedin.com/in/felipesantos-sre/) e vamos nos conectar e conversar mais sobre tecnologia.
+🔗 Para mais informações, entre no meu [LinkedIn](https://www.linkedin.com/in/felipesantos-sre/) e vamos nos conectar e conversar mais sobre tecnologia.
 
-
----
+************
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesdsredes&show_icons=true&locale=en&layout=compact" alt="felipesdsredes" />
