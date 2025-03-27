@@ -1,59 +1,49 @@
-<h1 align="center">🚀 Olá 👋, Meu nome é Felipe Santos 🚀</h1>
-
-<h3 align="center">🌟 Sou um líder experiente em SRE/DevOps, apaixonado por inovação e melhoria contínua 🌟</h3>
-
-<p align="justify">
-Minha trajetória profissional me permitiu desenvolver uma perspectiva abrangente, começando na área de infraestrutura, passando por desenvolvimento de software, até a arquitetura de soluções em nuvem. Esta experiência diversificada me permite liderar equipes ágeis com eficiência, disseminando uma cultura DevOps forte e resiliente.
-
-Como líder de equipes SRE/DevOps, meu objetivo é cultivar um ambiente que estimule o crescimento, a colaboração e a excelência técnica. Além de administrar e orientar equipes, busco oferecer soluções técnicas inovadoras para desafios complexos, otimizando infraestruturas em nuvem e arquiteturas de software em busca de alta performance, segurança e automação.
-
-Com uma paixão pelo aprendizado e compartilhamento de conhecimento, tenho uma presença ativa em eventos de tecnologia, como palestrante e coordenador na Cloudup, e como líder e coautor do livro "Jornada Cloud Native". Também fui reconhecido como InfluxAce pela InfluxData.
-</p>
-
-************
-
-### 📌 Links Relevantes:
-- [🌐 InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/felipe-santos/)
-- [🎥 Coordenador e palestrante na Cloudup](https://www.youtube.com/c/CloudUpTV/featured)
-- 📖 Jornada Colaborativa: Líder e coautor do livro "Jornada Cloud Native"
+<h1 align="center">🚀 Olá, sou Felipe Santos 🚀</h1>
+<h3 align="center">🌟 Líder SRE/DevOps & Autor de livros Técnicos 🌟</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=felipesdsredes&label=Profile%20views&color=0e75b6&style=flat" alt="felipesdsredes" />
-</p>
-
-************
-
-### 🔗 Conecte-se comigo:
-<p align="left">
-  <a href="https://www.linkedin.com/in/felipesantos-sre/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/felipesantos-sre/" height="70" width="70" />
+  <a href="https://linktr.ee/felipesre" target="_blank">
+    <img src="https://img.shields.io/badge/-Portf%C3%B3lio%20T%C3%A9cnico-2D2D2D?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-  <!-- Adicione outros ícones de redes sociais conforme desejar -->
+  <a href="https://www.linkedin.com/in/felipesantos-sre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://influxdata.com" target="_blank">
+    <img src="https://img.shields.io/badge/InfluxAce-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+  </a>
 </p>
 
-************
+### 📚 Autor dos Livros
+[![Jornada Cloud Native](https://img.shields.io/badge/Jornada_Cloud_Native-FF7139?style=flat-square&logo=kubernetes&logoColor=white)](https://linktr.ee/felipesre)
+[![Jornada Kubernetes](https://img.shields.io/badge/Jornada_Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://linktr.ee/felipesre)
+[![Jornada Observabilidade](https://img.shields.io/badge/Jornada_Observabilidade-F2F2F2?style=flat-square&logo=grafana&logoColor=black)](https://linktr.ee/felipesre)
 
-### 🛠 Linguagens e Ferramentas:
-<p align="left">
+### 🛠 Tech Stack
+**Cloud & Infra**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-- 🔧 Kubernetes
-- 📊 Stack Grafana
-- ☁️ AWS
-- 🔄 CI/CD
-- 📡 Observabilidade
-- 🌍 Terraform
-- ⚙️ Ansible
+**Monitoring & Observability**  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 
-</p>
+**CI/CD & DevOps**  
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-🔗 Para mais informações, entre no meu [LinkedIn](https://www.linkedin.com/in/felipesantos-sre/) e vamos nos conectar e conversar mais sobre tecnologia.
-
-************
-
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipesdsredes&show_icons=true&locale=en&layout=compact" alt="felipesdsredes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=felipesdsredes&show_icons=true&theme=dark&count_private=true" alt="stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesdsredes&layout=compact&theme=dark" alt="languages" width="40%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipesdsredes&show_icons=true&locale=en" alt="felipesdsredes" />
-</p>
+### 📢 Palestras & Comunidade
+- 🎤 Speaker em eventos de DevOps e Cloud Native
+- 🏆 InfluxAce 2023 pela InfluxData
+
+### 📫 Vamos conversar?
+- 💼 Oportunidades colaborativas: [LinkedIn](https://www.linkedin.com/in/felipesantos-sre/)
+- 📚 Meus livros técnicos: [Linktree](https://linktr.ee/felipesre)
